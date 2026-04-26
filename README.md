@@ -25,10 +25,19 @@ I'm a Data Analytics student and NCAA hockey player with a strong interest in sp
 - Built visualizations and statistical models to evaluate playoff likelihood
 - Provided data-driven insights on team weaknesses and improvements
 
-### Delivery Route Optimization System (Python)
-- Developed a graph-based optimization system using Dijkstra’s and Prim’s algorithms
-- Modeled shortest path routing and minimum spanning tree network design
-- Simulated real-world logistics network optimization with dynamic updates
+#### Netflix Movie Data Analysis (Machine Learning)
+- Built a machine learning model to analyze Netflix movie trends and content features
+- Performed data cleaning, exploratory data analysis, and predictive modeling using Python
+- Identified patterns in genres, release years, and content structure
+Project Link: https://github.com/amollica-analytics/my-final-project.git
+
+### Fitness Tracker Application 
+- Developed a web-based fitness tracking application using JavaScript
+- Integrated external APIs to fetch and manage data using Postman for testing and validation
+- Designed functionality to log, track, and analyze fitness activity over time
+- Focused on API integration, data handling, and front-end logic for user interaction
+- Demonstrated experience working with REST APIs and real-time data communication
+Project Link: https://github.com/amollica-analytics/fitness-tracker-api.git
 
 ## Let's Connect
 - **LinkedIn**: www.linkedin.com/in/anthony-mollica-adrian-college
