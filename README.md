@@ -25,7 +25,7 @@ I'm a Data Analytics student and NCAA hockey player with a strong interest in sp
 - Built visualizations and statistical models to evaluate playoff likelihood
 - Provided data-driven insights on team weaknesses and improvements
 
-#### Netflix Movie Data Analysis (Machine Learning)
+### Netflix Movie Data Analysis (Machine Learning)
 - Built a machine learning model to analyze Netflix movie trends and content features
 - Performed data cleaning, exploratory data analysis, and predictive modeling using Python
 - Identified patterns in genres, release years, and content structure
